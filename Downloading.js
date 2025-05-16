@@ -15,3 +15,11 @@ downloading("https://example.com/data",function(err, data){
     }
 });
 
+
+
+// OUTPUT FOR THE ABOVE CODE IS GIVEN AS :- 
+
+
+//  Starting writing the downloaded data into the file :- Dummy Downloaded Data
+//	Data has been written to the file :- output_file.txt
+//	Successfully data get written in the file :- output_file.txt
