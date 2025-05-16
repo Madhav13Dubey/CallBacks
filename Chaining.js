@@ -61,3 +61,17 @@ downloading(downloadURL,function(err, data){
 });    
 
 
+
+// OUTPUT FOR THE ABOVE CODE IS GIVEN AS :- 
+
+
+//  Starting downloading data from the given url :- https://example.com/data
+//	Downloaded data :- https://example.com/data
+//	Data is successfully get downloaded :- Data from the https://example.com/data
+//	Starting writing the downloaded data into the file :- Dummy Downloaded Data
+//	Data has been written to the file :- output_file.txt
+//	Successfully data get written in the file :- output_file.txt
+//	Starting uploading the file output_file.txt from the given https://upload.example.com/receive
+//	Uploading is over for the file :- output_file.txt
+//	Updation result :- File output_file.txt is Successfully get uploaded from the https://upload.example.com/receive url
+
