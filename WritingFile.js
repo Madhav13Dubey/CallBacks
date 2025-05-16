@@ -14,3 +14,12 @@ writingFile("Dummy Downloaded Data", function(err, file_name){
         console.log(`Successfully data get written in the file :- ${file_name}`);
     }
 });
+
+
+
+// OUTPUT FOR THE ABOVE CODE IS GIVEN AS := 
+
+
+//     Starting downloading data from the given url :- https://example.com/data
+//     Downloaded data :- https://example.com/data
+//     Data is successfully get downloaded :- Data from the https://example.com/data
