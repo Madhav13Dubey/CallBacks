@@ -14,3 +14,13 @@ uploadingFile("output_file.txt","https://upload.example.com/receive" ,function(e
         console.log(`Updation result :- ${result}`);
     }
 }); 
+
+
+
+// OUTPUT FOR THE ABOVE CODE IS GIVEN AS :- 
+
+
+//  Starting uploading the file output_file.txt from the given https://upload.example.com/receive
+//	Uploading is over for the file :- output_file.txt
+//	Updation result :- File output_file.txt is Successfully get uploaded from the https://upload.example.com/receive url
+
